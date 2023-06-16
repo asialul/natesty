@@ -1,0 +1,17 @@
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.csproj.AssemblyReference.cache
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.AssemblyInfoInputs.cache
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.AssemblyInfo.cs
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.csproj.CoreCompileInputs.cache
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\PoliczSilnie.exe
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\PoliczSilnie.deps.json
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\PoliczSilnie.runtimeconfig.json
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\PoliczSilnie.dll
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\PoliczSilnie.pdb
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.dll
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\refint\PoliczSilnie.dll
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.pdb
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.genruntimeconfig.cache
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\ref\PoliczSilnie.dll
+C:\Users\asial\source\repos\PoliczSilnie\bin\Debug\net7.0\Csv.dll
+C:\Users\asial\source\repos\PoliczSilnie\obj\Debug\net7.0\PoliczSilnie.csproj.CopyComplete

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliczSilnie", "PoliczSilnie.csproj", "{464EC74C-E975-40B8-AEEC-A9D14638FEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSilnia", "..\TestSilnia\TestSilnia.csproj", "{4DA71BE7-414A-419D-B53F-22CB33C90080}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{2BBFAE66-70D0-43B2-A032-133B1ADB2B08}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\silnia.csv = ..\..\..\Desktop\silnia.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{464EC74C-E975-40B8-AEEC-A9D14638FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464EC74C-E975-40B8-AEEC-A9D14638FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464EC74C-E975-40B8-AEEC-A9D14638FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464EC74C-E975-40B8-AEEC-A9D14638FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA71BE7-414A-419D-B53F-22CB33C90080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA71BE7-414A-419D-B53F-22CB33C90080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA71BE7-414A-419D-B53F-22CB33C90080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA71BE7-414A-419D-B53F-22CB33C90080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C12ABC-BDC8-439D-8B7E-0617EB4792F3}
+	EndGlobalSection
+EndGlobal

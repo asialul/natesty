@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ywa27sVUPyIfirElslBfqJ+cDvAx+Kt18WfbKa7bsE9cdT3vYoGzK800uVk9NPdY6KjB5GAaHQGKM37XYMrl9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asial\\source\\repos\\PoliczSilnie\\PoliczSilnie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asial\\.nuget\\packages\\csv\\2.0.93\\csv.2.0.93.nupkg.sha512"
+  ],
+  "logs": []
+}
