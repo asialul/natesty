@@ -1,4 +1,5 @@
 ﻿using Csv;
+using System;
 using System.Runtime.CompilerServices;
 
 public class PoliczSilnie
@@ -34,10 +35,28 @@ public class PoliczSilnie
             foreach (var line in CsvReader.ReadFromText(csv))
             {
                 // Header is handled, each line will contain the actual row data
-                var num = line["liczba"];
-                var wynik = line["silnia"];
-            Console.WriteLine(num + " " + wynik);
+                var num1 = line["liczba"];
+                var wynik1 = line["silnia"];
+            Console.WriteLine(num1 + " " + wynik1);
             }
+
+        List<int> num = new List<int>();
+        List<int> wynik = new List<int>();
+
+        foreach (var line in CsvReader.ReadFromText(csv))
+        {
+            // Header is handled, each line will contain the actual row data
+            var numline = line["liczba"];
+            var wynikline = line["silnia"];
+
+            var dnumline = Convert.ToInt32(numline);
+            var dwynikline = Convert.ToInt32(wynikline);
+
+            num.Add(dnumline);
+            wynik.Add(dwynikline);
+        }
+
+        foreach (int i in wynik) { Console.WriteLine(i); }
 
 
     }
