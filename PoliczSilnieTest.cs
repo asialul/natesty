@@ -8,8 +8,7 @@ namespace PoliczSilnieTest
     {
 
         [TestMethod]
-
-        public void Silnia_SprawdzWynik()
+        public void Silnia_SprawdzWynik1()
         {
             List<int> num = new List<int>();
             List<int> wynik = new List<int>();
@@ -24,7 +23,7 @@ namespace PoliczSilnieTest
                 var wynikline = line["silnia"];
 
                 var dnumline = Convert.ToInt32(numline);
-                var dwynikline = Convert.ToInt32(numline);
+                var dwynikline = Convert.ToInt32(wynikline);
 
                 num.Add(dnumline);
                 wynik.Add(dwynikline);
